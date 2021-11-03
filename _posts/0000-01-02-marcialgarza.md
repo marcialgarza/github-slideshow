@@ -1,8 +1,8 @@
 3.	---
 4.	
-5.	layout: mg3-slide
+5.	layout: slide
 6.	
-7.	title: "Welcome to our second slide!"
+7.	title: "Welcome to MG3's slide!"
 8.	
 9.	---
 10.	
